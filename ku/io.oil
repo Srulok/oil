@@ -1,0 +1,9 @@
+class io:
+    def Print (text):
+        print(text,end='')
+    
+    def Println (text):
+        print(text)
+        
+    def Printend (text,yourEnd):
+        print(text,end=yourEnd)
